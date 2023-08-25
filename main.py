@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import StandardScaler
-from sklearn.neighbors import NearestNeighbors'
+from sklearn.neighbors import NearestNeighbors
 
 
 data = pd.read_csv('movies.csv')  
